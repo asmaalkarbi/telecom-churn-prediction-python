@@ -55,8 +55,7 @@ The project includes:
 ## 🤖 Machine Learning Models
 - Logistic Regression
 - Random Forest
-- Decision Trees
-- Other classification models
+- XGBoost
 
 ## 📈 Evaluation Metrics
 - Accuracy
